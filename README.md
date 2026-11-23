@@ -1,1 +1,1 @@
-# Soc Analyst Hands On Labs
+# SOC Analyst Hands On Labs
